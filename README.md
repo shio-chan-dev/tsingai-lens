@@ -1,6 +1,3 @@
-### ✅ `README.md`
-
-```markdown
 # TsingAI-Lens: 清华科研文献智能助手
 
 **TsingAI-Lens** 是一个为清华场景定制的私有部署科研助手，基于 [MaxKB](https://github.com/RealityArchitect/MaxKB) 构建，面向科研人员提供一站式文献处理、语义问答、关键词抽取、知识图谱与思维导图自动生成的 AI 系统。
